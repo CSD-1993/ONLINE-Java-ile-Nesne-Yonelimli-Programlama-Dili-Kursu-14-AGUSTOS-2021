@@ -9,7 +9,7 @@
 + Kursun toplam ücreti KDV dahil __3.900 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __3.600__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-NISAN-2021/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-NISAN-2021/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-NISAN-2021/blob/main/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/-ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-24-TEMMUZ-2021/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/-ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-24-TEMMUZ-2021/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/-ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-24-TEMMUZ-2021/blob/main/sss.md)
 + [Kursa Kayıt](  https://us02web.zoom.us/meeting/register/tZIqc--tpzgiG9N0eLmTQkY-G-ga86uKeiqp)
