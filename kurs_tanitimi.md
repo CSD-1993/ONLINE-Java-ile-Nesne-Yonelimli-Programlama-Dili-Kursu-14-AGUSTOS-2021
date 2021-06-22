@@ -78,6 +78,6 @@ __Java ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri prog
 __[Katılım için önce ön kayıt yaptırmalısınız](  https://us02web.zoom.us/meeting/register/tZIqc--tpzgiG9N0eLmTQkY-G-ga86uKeiqp)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-__Java ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_Java_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/)__ ya da ona bir __[e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)__
+__Java ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/-ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-24-TEMMUZ-2021/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/)__ ya da ona bir __[e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)__
 
 
