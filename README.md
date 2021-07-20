@@ -1,4 +1,4 @@
-# ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-7-AĞUSTOS-2021
+# ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-14-AĞUSTOS-2021
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
