@@ -314,12 +314,16 @@
 + Örnek sınıflar ve programlar
 
 ## Komut Satırı Argümanları
++ Program ve Process kavramları
++ Programın komut satırı argümanları
++ Progamın giriş noktası (entry point) olan main metodunun parametresi ve anlamı
++ Örnek uygulamalar
 
 ## Dosya işlemleri
 + Dosya ve dizin _(directory)_ kavramları
 + Dosya yol ifadeleri: _absolute_ and _relative_ path
 + Processin çalışma dizini _(current working directory)_
-+ Metin _(text)_ ve ikili (binary) dosyalar
++ Metin _(text)_ ve ikili _(binary)_ dosyalar
 + Dosya üzerinde bütünsel işlemler yapan sınıflar
 + Dosyalar üzerinde ayrıntılı işlem yapan sınıflar
 + _File_ sınıfının dosya ve dizinler üzerinde işlem yapan metotlar
@@ -329,7 +333,12 @@
 + Dosya göstericisi _(file pointer)_ kavramı
 + Dosya göstericisinin _EOF_ durumu
 + Dosyadan okuma ve yazma işlemleri
++ Little endian ve big endian kavramları
++ Temel türlerin byte dizisine çevrilmesi ve byte dizisinin temel türlere çevrilmesi _(ByteBuffer sınıfı)_
++ _DataInputStream_ ve _DataOutputStream_ adaptör sınıfları
++ _BufferedReader_ ve _BufferedWriter_ adaptör sınıfları
 + _RandomAccessFile_ sınıfı 
 + Dosya göstericisinin konumlandırılması
++ Dosya formatı kavramı
 + Örnek programlar
 
